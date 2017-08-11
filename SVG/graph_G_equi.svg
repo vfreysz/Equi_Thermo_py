@@ -8,13 +8,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="257.72049pt"
-   height="255.81985pt"
-   viewBox="0 0 257.7205 255.81985"
+   width="419.14215pt"
+   height="416.05109pt"
+   viewBox="0 0 419.14217 416.05108"
    version="1.2"
    id="svg4105"
-   sodipodi:docname="Main.svg"
-   inkscape:version="0.92.1 unknown">
+   sodipodi:docname="graph_G_equi.svg"
+   inkscape:version="0.92.2 (unknown)">
   <metadata
      id="metadata4109">
     <rdf:RDF>
@@ -45,8 +45,8 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="0.8409652"
-     inkscape:cx="112.65813"
-     inkscape:cy="-164.45567"
+     inkscape:cx="58.55363"
+     inkscape:cy="287.00792"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -1812,7 +1812,7 @@
   </defs>
   <g
      id="g10487"
-     transform="translate(-174.04362,-70.856585)">
+     transform="matrix(1.6263439,0,0,1.6263439,-283.05479,-115.23717)">
     <use
        xlink:href="#surface40787"
        transform="translate(159,70)"
